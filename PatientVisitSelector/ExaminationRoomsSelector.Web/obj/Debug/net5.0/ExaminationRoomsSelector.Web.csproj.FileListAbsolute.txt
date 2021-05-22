@@ -1,0 +1,145 @@
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.exe
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.deps.json
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.runtimeconfig.json
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.runtimeconfig.dev.json
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ref\ExaminationRoomsSelector.Web.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.pdb
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csprojAssemblyReference.cache
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.AssemblyInfoInputs.cache
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.AssemblyInfo.cs
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csproj.CoreCompileInputs.cache
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\staticwebassets\ExaminationRoomsSelector.Web.StaticWebAssets.Manifest.cache
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\staticwebassets\ExaminationRoomsSelector.Web.StaticWebAssets.xml
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\scopedcss\bundle\ExaminationRoomsSelector.Web.styles.css
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.RazorTargetAssemblyInfo.cache
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csproj.CopyComplete
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ref\ExaminationRoomsSelector.Web.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.pdb
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\Lab\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.genruntimeconfig.cache
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\appsettings.json
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.exe
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.deps.json
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.runtimeconfig.json
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.runtimeconfig.dev.json
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.dll
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ref\ExaminationRoomsSelector.Web.dll
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.pdb
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csprojAssemblyReference.cache
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.AssemblyInfoInputs.cache
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.AssemblyInfo.cs
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csproj.CoreCompileInputs.cache
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\staticwebassets\ExaminationRoomsSelector.Web.StaticWebAssets.Manifest.cache
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\staticwebassets\ExaminationRoomsSelector.Web.StaticWebAssets.xml
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\scopedcss\bundle\ExaminationRoomsSelector.Web.styles.css
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.RazorTargetAssemblyInfo.cache
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csproj.CopyComplete
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.dll
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ref\ExaminationRoomsSelector.Web.dll
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.pdb
+D:\Repos\ShapeFinal\ShapeFinal\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.genruntimeconfig.cache
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.exe
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.deps.json
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.runtimeconfig.json
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.runtimeconfig.dev.json
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ref\ExaminationRoomsSelector.Web.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.pdb
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csprojAssemblyReference.cache
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.AssemblyInfoInputs.cache
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.AssemblyInfo.cs
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csproj.CoreCompileInputs.cache
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\staticwebassets\ExaminationRoomsSelector.Web.StaticWebAssets.Manifest.cache
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\staticwebassets\ExaminationRoomsSelector.Web.StaticWebAssets.xml
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\scopedcss\bundle\ExaminationRoomsSelector.Web.styles.css
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.RazorTargetAssemblyInfo.cache
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csproj.CopyComplete
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ref\ExaminationRoomsSelector.Web.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.pdb
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Lab\Lab3\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.genruntimeconfig.cache
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csprojAssemblyReference.cache
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.AssemblyInfoInputs.cache
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.AssemblyInfo.cs
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csproj.CoreCompileInputs.cache
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.dll
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ref\ExaminationRoomsSelector.Web.dll
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\appsettings.json
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.exe
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.deps.json
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.runtimeconfig.json
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.runtimeconfig.dev.json
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.dll
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ref\ExaminationRoomsSelector.Web.dll
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\staticwebassets\ExaminationRoomsSelector.Web.StaticWebAssets.Manifest.cache
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\staticwebassets\ExaminationRoomsSelector.Web.StaticWebAssets.xml
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\scopedcss\bundle\ExaminationRoomsSelector.Web.styles.css
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.RazorTargetAssemblyInfo.cache
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csproj.CopyComplete
+D:\Repos\UAIM\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.genruntimeconfig.cache
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.exe
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.deps.json
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.runtimeconfig.json
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.runtimeconfig.dev.json
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ref\ExaminationRoomsSelector.Web.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\ExaminationRoomsSelector.Web.pdb
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csprojAssemblyReference.cache
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.AssemblyInfoInputs.cache
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.AssemblyInfo.cs
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csproj.CoreCompileInputs.cache
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\staticwebassets\ExaminationRoomsSelector.Web.StaticWebAssets.Manifest.cache
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\staticwebassets\ExaminationRoomsSelector.Web.StaticWebAssets.xml
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\scopedcss\bundle\ExaminationRoomsSelector.Web.styles.css
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.RazorTargetAssemblyInfo.cache
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.csproj.CopyComplete
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ref\ExaminationRoomsSelector.Web.dll
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.pdb
+C:\Users\szymi\OneDrive\Pulpit\folders\cb_sem4\UAIM\Laboratoria\Laby\2021l_uaim_lab\Laboratorium\ExaminationRoomsSelector\ExaminationRoomsSelector.Web\obj\Debug\net5.0\ExaminationRoomsSelector.Web.genruntimeconfig.cache

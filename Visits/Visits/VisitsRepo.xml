@@ -1,0 +1,12 @@
+﻿<Visits>
+	<Visit>
+		<Id>1</Id>
+		<DoctorId>1</DoctorId>
+		<PatientId>1</PatientId>
+		<Date>05/29/2022 8:00</Date>
+		<Clinic>
+			<Adress>Warszawska 1</Adress>
+			<Name>NZOZ Puls</Name>
+		</Clinic>
+	</Visit>
+</Visits>

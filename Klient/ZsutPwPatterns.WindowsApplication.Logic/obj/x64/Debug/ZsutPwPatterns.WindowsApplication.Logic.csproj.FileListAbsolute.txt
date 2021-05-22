@@ -1,0 +1,72 @@
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pdb
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pri
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.csprojAssemblyReference.cache
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.csproj.CoreCompileInputs.cache
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.csproj.CopyComplete
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pdb
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\priconfig.xml
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\resources.resfiles
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\pri.resfiles
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\qualifiers.txt
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.dll
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pri
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.csprojAssemblyReference.cache
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.csproj.CoreCompileInputs.cache
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.csproj.CopyComplete
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.dll
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\priconfig.xml
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\priconfig.xml.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\unfiltered.layout.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\filtered.layout.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\excluded.layout.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\resources.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\resources.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\pri.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\pri.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\qualifiers.txt
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\qualifiers.txt.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.csproj.CoreCompileInputs.cache
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.dll
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.dll
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pri
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.csproj.CopyComplete
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\priconfig.xml
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\priconfig.xml.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\unfiltered.layout.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\filtered.layout.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\excluded.layout.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\resources.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\resources.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\pri.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\pri.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\qualifiers.txt
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\qualifiers.txt.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication.Logic\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.csprojAssemblyReference.cache

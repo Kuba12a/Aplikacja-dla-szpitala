@@ -1,0 +1,198 @@
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\App.xbf
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\View\Pages\MainPage.xbf
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\View\Pages\SubPage.xbf
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.xr.xml
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.exe
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.pdb
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\resources.pri
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\AppxManifest.xml
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Core\ZsutPwPatterns.WindowsApplication.exe
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.build.appxrecipe
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Xaml.Interactions.pdb
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Xaml.Interactivity.pdb
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\System.Runtime.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\System.Text.Json.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pdb
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pri
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.csprojAssemblyReference.cache
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\App.g.i.cs
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\App.g.cs
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\MainPage.g.i.cs
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\MainPage.g.cs
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\SubPage.g.i.cs
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\SubPage.g.cs
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\App.xaml
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\MainPage.xaml
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\SubPage.xaml
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\App.xbf
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\MainPage.xbf
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\SubPage.xbf
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.csproj.CoreCompileInputs.cache
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.csproj.CopyComplete
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pri.xml
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.exe
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.pdb
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\FxResources.System.Text.Json.SR.resw
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\priconfig.xml
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\resources.resfiles
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\pri.resfiles
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\qualifiers.txt
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\App.xbf
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\View\Pages\MainPage.xbf
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\View\Pages\SubPage.xbf
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.xr.xml
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.exe
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\resources.pri
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\AppxManifest.xml
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Core\AppxManifest.xml
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Core\ZsutPwPatterns.WindowsApplication.exe
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.build.appxrecipe
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Xaml.Interactions.dll
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Xaml.Interactions.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Xaml.Interactivity.dll
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Xaml.Interactivity.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\System.Runtime.dll
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\System.Text.Json.dll
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.dll
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pri
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.csprojAssemblyReference.cache
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\App.g.i.cs
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\App.g.cs
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\MainPage.g.i.cs
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\MainPage.g.cs
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\SubPage.g.i.cs
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\SubPage.g.cs
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\App.xaml
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\MainPage.xaml
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\SubPage.xaml
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\App.xbf
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\MainPage.xbf
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\SubPage.xbf
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\XamlSaveStateFile.xml
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.csproj.CoreCompileInputs.cache
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.csproj.CopyComplete
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pri.xml
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\Microsoft.Xaml.Interactions.pri.xml
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\Microsoft.Xaml.Interactivity.pri.xml
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.exe
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ResourceHandlingTask.state
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\priconfig.xml
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\priconfig.xml.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\unfiltered.layout.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\filtered.layout.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\excluded.layout.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\resources.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\resources.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\pri.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\pri.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\qualifiers.txt
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\qualifiers.txt.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ProjectArchitectures.txt
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+D:\Repos\UAIM\2021l_uaim_lab\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\FxResources.System.Text.Json.SR.resw
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.csprojAssemblyReference.cache
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\App.g.i.cs
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\App.g.cs
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\MainPage.g.i.cs
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\MainPage.g.cs
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\SubPage.g.i.cs
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\SubPage.g.cs
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\App.xaml
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\SubPage.xaml
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\MainPage.xaml
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\App.xbf
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\SubPage.xbf
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\View\Pages\MainPage.xbf
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\XamlSaveStateFile.xml
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.exe
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\App.xbf
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\View\Pages\MainPage.xbf
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\View\Pages\SubPage.xbf
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.xr.xml
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.exe
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\resources.pri
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\AppxManifest.xml
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Core\AppxManifest.xml
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Core\ZsutPwPatterns.WindowsApplication.exe
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.build.appxrecipe
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Xaml.Interactions.dll
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Xaml.Interactions.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Xaml.Interactivity.dll
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.Xaml.Interactivity.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\System.Runtime.dll
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\System.Text.Json.dll
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.dll
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pdb
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\bin\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pri
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.csproj.CoreCompileInputs.cache
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.csproj.CopyComplete
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ZsutPwPatterns.WindowsApplication.Logic.pri.xml
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\Microsoft.Xaml.Interactions.pri.xml
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\Microsoft.Xaml.Interactivity.pri.xml
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ResourceHandlingTask.state
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\priconfig.xml
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\priconfig.xml.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\unfiltered.layout.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\filtered.layout.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\excluded.layout.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\resources.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\resources.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\pri.resfiles
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\pri.resfiles.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\qualifiers.txt
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\qualifiers.txt.intermediate
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\ProjectArchitectures.txt
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+D:\Repos\UAIM\2021l_uaim_lab\Projekt\Klient\ZsutPwPatterns.WindowsApplication\obj\x64\Debug\FxResources.System.Text.Json.SR.resw

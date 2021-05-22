@@ -1,0 +1,169 @@
+﻿<Page
+    x:Class="ZsutPw.Patterns.WindowsApplication.View.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:i="using:Microsoft.Xaml.Interactivity"
+    xmlns:icore="using:Microsoft.Xaml.Interactions.Core"
+    xmlns:model="using:ZsutPw.Patterns.WindowsApplication.Model"
+    xmlns:view="using:ZsutPw.Patterns.WindowsApplication.View"
+    xmlns:controller="using:ZsutPw.Patterns.WindowsApplication.Controller" xmlns:model1="using:ZsutPwPatterns.WindowsApplication.Logic.Model.Data"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <controller:ApplicationStateConverter x:Key="ApplicationStateConverter" />
+        <view:PairConverter x:Key="PairConverter" />
+
+        <DataTemplate x:Key="PairListViewTemplate" x:DataType="model1:PatientVisitPairDto">
+            <Grid VerticalAlignment="Top" Background="Teal">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="auto" />
+
+                </Grid.RowDefinitions>
+                <TextBlock TextWrapping="Wrap" Text="{x:Bind Mode=OneTime, Converter={StaticResource PairConverter}}" />
+            </Grid>
+        </DataTemplate>
+    </Page.Resources>
+
+    <Page.BottomAppBar>
+        <CommandBar IsOpen="True" IsSticky="False" Visibility="Visible">
+            <AppBarButton Icon="List" Label="List" Command="{x:Bind Controller.ShowListCommand}" />
+            <AppBarButton Icon="Map" Label="Map" Command="{x:Bind Controller.ShowMapCommand}" />
+            <AppBarButton Icon="Pictures" Label="Field" Command="{x:Bind Controller.ShowFieldCommand}" />
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Icon="Setting" Label="Settings" IsEnabled="False" />
+                <AppBarButton Icon="Help" Label="Help" />
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid x:Name="rootPanel" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="600" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid x:Name="listPanel" Background="DarkBlue"  Grid.Row="0" Width="300">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="250" />
+                <RowDefinition Height="350" />
+            </Grid.RowDefinitions>
+
+
+            <StackPanel x:Name="pairSearchPanel" Grid.Row="0" Orientation="Horizontal" Margin="4" Visibility="Visible" Opacity="1">
+                <TextBox Background="Black" Foreground="White"  x:Name="searchTextId" Header="Doctor ID"  Text="{x:Bind Mode=TwoWay, Path=Model.SearchText, UpdateSourceTrigger=PropertyChanged}" Width="100" Height="66" />
+                <AppBarButton Background="Teal" Foreground="White" x:Name="searchButton" Icon="Filter" Label="Get doctors visits" Command="{x:Bind Path=Controller.SearchPairsCommand}" Click="searchButton_Click" />
+            </StackPanel>
+
+            <StackPanel x:Name="pairSearchPanel2" Grid.Row="0" Orientation="Horizontal" Margin="4" Visibility="Collapsed" Opacity="0">
+                <!--TextChanged="searchTextDate_TextChanged_1"-->
+                <TextBox Background="Black" Foreground="White"  x:Name="searchTextId2" Header="Doctor ID"  Text="{x:Bind Mode=TwoWay, Path=Model.SearchText, UpdateSourceTrigger=PropertyChanged}" Width="100" Height="66"  />
+                <AppBarButton Background="Teal" Foreground="White" x:Name="searchButton2" Icon="Filter" Label="Get doctors visits" Command="{x:Bind Path=Controller.SearchPairsbyDateCommand}"  />
+                <TextBox Background="Black" Foreground="White"  x:Name="searchTextDate" Header="Date"  Text="{x:Bind Mode=TwoWay, Path=Model.SearchText2, UpdateSourceTrigger=PropertyChanged}" Width="100" Height="66"  />
+                <!--TextChanged="searchTextDate_TextChanged_1"-->
+            </StackPanel>
+
+            <StackPanel x:Name="pairSearchPanel3" Grid.Row="0" Orientation="Horizontal" Margin="4" Visibility="Collapsed" Opacity="0">
+                <!--TextChanged="searchTextDate_TextChanged_1"-->
+                <TextBox Background="Black" Foreground="White"  x:Name="searchTextId3" Header="Doctor ID"  Text="{x:Bind Mode=TwoWay, Path=Model.SearchText, UpdateSourceTrigger=PropertyChanged}" Width="100" Height="66"  />
+                <AppBarButton Background="Teal" Foreground="White" x:Name="searchButton3" Icon="Filter" Label="Get doctors visits" Command="{x:Bind Path=Controller.SearchPairsbyClinicCommand}"  />
+                <TextBox Background="Black" Foreground="White"  x:Name="searchTextClinic" Header="Clinic"  Text="{x:Bind Mode=TwoWay, Path=Model.SearchText3, UpdateSourceTrigger=PropertyChanged}" Width="100" Height="66"  />
+                <!--TextChanged="searchTextDate_TextChanged_1"-->
+            </StackPanel>
+
+            <StackPanel x:Name="pairPanel" Grid.Row="1" Margin="4">
+                <TextBlock x:Name="pairText" Text="Pairs" Margin="0,4,0,4" />
+                <ListView x:Name="pairList" ItemsSource="{x:Bind Model.PairList, Mode=OneWay}" ItemTemplate="{StaticResource PairListViewTemplate}" SelectedItem="{x:Bind Model.SelectedPair, Mode=TwoWay}" Height="240" BorderThickness="1" BorderBrush="{ThemeResource SystemControlForegroundBaseMediumLowBrush}" SelectionChanged="pairList_SelectionChanged" />
+                <CommandBar x:Name="pairCommandBar" DefaultLabelPosition="Right" Background="Teal" Foreground="Black" HorizontalAlignment="Left">
+                    <AppBarButton Icon="View" Label="byId" Command="{x:Bind Controller.ShowMapCommand}"  />
+                    <AppBarButton Icon="View" Label="byDate" Command="{x:Bind Controller.ShowListCommand}"  />
+                    <AppBarButton Icon="View" Label="byClinic" Command="{x:Bind Controller.ShowFieldCommand}"  />
+                </CommandBar>
+            </StackPanel>
+        </Grid>
+
+        <HyperlinkButton x:Name="zsutHyperlink" Content="ZSUT IT PW home page" NavigateUri="https://zsut.tele.pw.edu.pl/" Grid.Row="1" HorizontalAlignment="Center" />
+
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="map">
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetName="pairSearchPanel" Storyboard.TargetProperty="Opacity" To="1.0" Duration="0:0:2.0" />
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pairSearchPanel" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0:0:0.0" Value="Visible"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+                        
+                        <DoubleAnimation Storyboard.TargetName="pairSearchPanel2" Storyboard.TargetProperty="Opacity" To="0.0" Duration="0:0:2.0" />
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pairSearchPanel2" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0:0:2.0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+                        <DoubleAnimation Storyboard.TargetName="pairSearchPanel3" Storyboard.TargetProperty="Opacity" To="0.0" Duration="0:0:2.0" />
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pairSearchPanel3" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0:0:2.0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+
+                <VisualState x:Name="list">
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetName="pairSearchPanel" Storyboard.TargetProperty="Opacity" To="0.0" Duration="0:0:2.0" />
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pairSearchPanel" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0:0:2.0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        
+                        <DoubleAnimation Storyboard.TargetName="pairSearchPanel2" Storyboard.TargetProperty="Opacity" To="1.0" Duration="0:0:2.0" />
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pairSearchPanel2" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0:0:0.0" Value="Visible"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+                        <DoubleAnimation Storyboard.TargetName="pairSearchPanel3" Storyboard.TargetProperty="Opacity" To="0.0" Duration="0:0:2.0" />
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pairSearchPanel3" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0:0:2.0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                                       
+                </VisualState>
+
+                <VisualState x:Name="field">
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetName="pairSearchPanel" Storyboard.TargetProperty="Opacity" To="0.0" Duration="0:0:2.0" />
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pairSearchPanel" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0:0:2.0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+                        <DoubleAnimation Storyboard.TargetName="pairSearchPanel3" Storyboard.TargetProperty="Opacity" To="1.0" Duration="0:0:2.0" />
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pairSearchPanel3" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0:0:0.0" Value="Visible"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+                        <DoubleAnimation Storyboard.TargetName="pairSearchPanel2" Storyboard.TargetProperty="Opacity" To="0.0" Duration="0:0:2.0" />
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pairSearchPanel2" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0:0:2.0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+
+
+
+
+        <i:Interaction.Behaviors>
+            <icore:DataTriggerBehavior Binding="{Binding CurrentState, Mode=OneWay, Converter={StaticResource ApplicationStateConverter}}" ComparisonCondition="Equal" Value="Map">
+                <icore:GoToStateAction StateName="map" />
+            </icore:DataTriggerBehavior>
+            <icore:DataTriggerBehavior Binding="{Binding CurrentState, Mode=OneWay, Converter={StaticResource ApplicationStateConverter}}" ComparisonCondition="Equal" Value="List">
+                <icore:GoToStateAction StateName="list" />
+            </icore:DataTriggerBehavior>
+            <icore:DataTriggerBehavior Binding="{Binding CurrentState, Mode=OneWay, Converter={StaticResource ApplicationStateConverter}}" ComparisonCondition="Equal" Value="Field">
+                <icore:GoToStateAction StateName="field" />
+            </icore:DataTriggerBehavior>
+        </i:Interaction.Behaviors>
+    </Grid>
+</Page>

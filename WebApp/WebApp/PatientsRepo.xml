@@ -1,0 +1,26 @@
+<Patients>
+	<Patient>
+		<Id>1</Id>
+		<Name>Jakub</Name>
+		<Surname>Jakubczyk</Surname>
+		<Height>1.87</Height>
+		<Pesel>00134141511</Pesel>
+		<Gender>Male</Gender>
+	</Patient>
+	<Patient>
+		<Id>2</Id>
+		<Name>Jacek</Name>
+		<Surname>Młynarczyk</Surname>
+		<Height>1.85</Height>
+		<Pesel>31445556661</Pesel>
+		<Gender>Male</Gender>
+	</Patient>
+	<Patient>
+		<Id>3</Id>
+		<Name>Franek</Name>
+		<Surname>Młynarczyk</Surname>
+		<Height>1.81</Height>
+		<Pesel>31445556631</Pesel>
+		<Gender>Male</Gender>
+	</Patient>
+</Patients>

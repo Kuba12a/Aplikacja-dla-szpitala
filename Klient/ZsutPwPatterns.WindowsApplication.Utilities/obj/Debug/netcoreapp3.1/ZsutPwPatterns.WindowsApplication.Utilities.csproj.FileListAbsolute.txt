@@ -1,0 +1,9 @@
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Utilities\bin\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.deps.json
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Utilities\bin\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Utilities\bin\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.pdb
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Utilities\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.csprojAssemblyReference.cache
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Utilities\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.AssemblyInfoInputs.cache
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Utilities\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.AssemblyInfo.cs
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Utilities\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Utilities\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.dll
+C:\Users\kalus\OneDrive\Pulpit\Nowy folder (3)\ZsutPwPatterns.WindowsApplication.Utilities\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.pdb

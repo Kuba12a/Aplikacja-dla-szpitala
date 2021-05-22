@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Doctors.Infrastractures/1.0.0": {
+        "dependencies": {
+          "Doctors.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Doctors.Infrastractures.dll": {}
+        }
+      },
+      "Doctors.Domain/1.0.0": {
+        "runtime": {
+          "Doctors.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Doctors.Infrastractures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Doctors.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
