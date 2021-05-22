@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qIufRPCrey8oT94kTjlhIne+RZdaVvjQtBfKFVKmHpLH0tvMHxUgqZ6SJmnYSIFQGpjkcTtIMxoy7dP1nTHQzg==",
+  "dgSpecHash": "0owNuwDFSmK3QmEBkCwQCzPmGJ3J993xzBANyTM1lY3FMegGj2W7AvFsV1WIL48ZA+SHia9Z7jYYSfpoWQyaCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kalus\\OneDrive\\Pulpit\\EEEEEE\\Projekt\\WebApp\\WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\Users\\kalus\\OneDrive\\Pulpit\\EEEEEE\\Projekt\\WebApp\\WebApp\\DoctorsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\kalus\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

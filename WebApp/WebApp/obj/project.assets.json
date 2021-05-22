@@ -234,9 +234,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kalus\\OneDrive\\Pulpit\\EEEEEE\\Projekt\\WebApp\\WebApp\\WebApp.csproj",
-      "projectName": "WebApp",
-      "projectPath": "C:\\Users\\kalus\\OneDrive\\Pulpit\\EEEEEE\\Projekt\\WebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\kalus\\OneDrive\\Pulpit\\EEEEEE\\Projekt\\WebApp\\WebApp\\DoctorsApp.csproj",
+      "projectName": "DoctorsApp",
+      "projectPath": "C:\\Users\\kalus\\OneDrive\\Pulpit\\EEEEEE\\Projekt\\WebApp\\WebApp\\DoctorsApp.csproj",
       "packagesPath": "C:\\Users\\kalus\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kalus\\OneDrive\\Pulpit\\EEEEEE\\Projekt\\WebApp\\WebApp\\obj\\",
       "projectStyle": "PackageReference",

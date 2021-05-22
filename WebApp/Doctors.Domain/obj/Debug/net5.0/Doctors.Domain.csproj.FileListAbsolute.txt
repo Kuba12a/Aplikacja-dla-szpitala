@@ -104,3 +104,15 @@ C:\C#_programs\UAIM\good_repo_2\2021l_uaim_lab\2021l_uaim_lab\Projekt\WebApp\Doc
 C:\C#_programs\UAIM\good_repo_2\2021l_uaim_lab\2021l_uaim_lab\Projekt\WebApp\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.dll
 C:\C#_programs\UAIM\good_repo_2\2021l_uaim_lab\2021l_uaim_lab\Projekt\WebApp\Doctors.Domain\obj\Debug\net5.0\ref\Doctors.Domain.dll
 C:\C#_programs\UAIM\good_repo_2\2021l_uaim_lab\2021l_uaim_lab\Projekt\WebApp\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.pdb
+C:\Users\kalus\OneDrive\Pulpit\EEEEEE\Projekt\WebApp\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.deps.json
+C:\Users\kalus\OneDrive\Pulpit\EEEEEE\Projekt\WebApp\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.dll
+C:\Users\kalus\OneDrive\Pulpit\EEEEEE\Projekt\WebApp\Doctors.Domain\bin\Debug\net5.0\ref\Doctors.Domain.dll
+C:\Users\kalus\OneDrive\Pulpit\EEEEEE\Projekt\WebApp\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.pdb
+C:\Users\kalus\OneDrive\Pulpit\EEEEEE\Projekt\WebApp\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.csprojAssemblyReference.cache
+C:\Users\kalus\OneDrive\Pulpit\EEEEEE\Projekt\WebApp\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalus\OneDrive\Pulpit\EEEEEE\Projekt\WebApp\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.AssemblyInfoInputs.cache
+C:\Users\kalus\OneDrive\Pulpit\EEEEEE\Projekt\WebApp\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.AssemblyInfo.cs
+C:\Users\kalus\OneDrive\Pulpit\EEEEEE\Projekt\WebApp\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kalus\OneDrive\Pulpit\EEEEEE\Projekt\WebApp\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.dll
+C:\Users\kalus\OneDrive\Pulpit\EEEEEE\Projekt\WebApp\Doctors.Domain\obj\Debug\net5.0\ref\Doctors.Domain.dll
+C:\Users\kalus\OneDrive\Pulpit\EEEEEE\Projekt\WebApp\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.pdb
